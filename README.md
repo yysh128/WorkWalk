@@ -48,10 +48,25 @@
 ```
 
   #### 2-3 ) 프로젝트 화면
-  ![image](https://github.com/yysh128/WorkWalk/assets/75177372/2fa81fe6-9c4f-477e-91fa-2dac765515a7)
-  
+  <p align="center">
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/f839e690-a400-4d20-8eb3-40543cf27afd" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/1ad337d0-434c-48f0-8c68-09bf86e06b9d" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/259c8f03-438a-40f2-93f4-587aaedec853" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/1c95f6fc-6925-4f0b-9dab-23b7a92ee2c3" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/bede6054-6a45-4faa-aa06-e90495cca4a5" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/24d05ee8-97ce-4971-95b8-4361f83cb360" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/2e49d0b2-b483-489a-b219-9d99900013f2" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/942a2836-1b0c-4ce0-bd45-d45a714c3643" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/ff6adeb0-2fd6-460c-9f8a-22eb3903cb5c" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/d5a08c8b-d134-45cd-9f41-9e373590a5f7" width=600/>
+    <img src="https://github.com/yysh128/WorkWalk/assets/75177372/0b092600-5bde-4001-9079-306ef981fb88" width=600/>
+
+  </p>
+
   #### 2-4 ) 프로젝트 구조
-![image](https://github.com/yysh128/WorkWalk/assets/75177372/67eca8d2-eda8-47e8-a8ce-2d7525b94c62)
+  <p align="center">
+  <img src="https://github.com/yysh128/WorkWalk/assets/75177372/67eca8d2-eda8-47e8-a8ce-2d7525b94c62" width=600/>
+  </p>
 
   #### 2-5 ) 프로젝트 적용 기술 및 구조
   - 개발 환경 및 도구
