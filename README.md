@@ -48,11 +48,10 @@
 ```
 
   #### 2-3 ) 프로젝트 화면
-  ![프로젝트화면모](![image](https://github.com/yysh128/WorkWalk/assets/75177372/2fa81fe6-9c4f-477e-91fa-2dac765515a7))
+  ![image](https://github.com/yysh128/WorkWalk/assets/75177372/2fa81fe6-9c4f-477e-91fa-2dac765515a7)
   
   #### 2-4 ) 프로젝트 구조
-  ![구조도](![image](https://github.com/yysh128/WorkWalk/assets/75177372/38ed3cae-0e12-429c-a9af-5b964c850414)
-)
+![image](https://github.com/yysh128/WorkWalk/assets/75177372/67eca8d2-eda8-47e8-a8ce-2d7525b94c62)
 
   #### 2-5 ) 프로젝트 적용 기술 및 구조
   - 개발 환경 및 도구
